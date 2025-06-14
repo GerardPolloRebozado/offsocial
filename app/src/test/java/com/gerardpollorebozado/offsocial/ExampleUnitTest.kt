@@ -1,4 +1,4 @@
-package com.gerardpollorebozado.rssviewer
+package com.gerardpollorebozado.offsocial
 
 import org.junit.Test
 

@@ -1,6 +1,5 @@
-package com.gerardpollorebozado.rssviewer.ui.theme
+package com.gerardpollorebozado.offsocial.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

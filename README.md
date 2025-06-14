@@ -1,8 +1,8 @@
-# 📤 off.tiktok — No Account? No Problem!
+# 📤 offsocial — No Account? No Problem!
 
 Ever tried clicking a TikTok link only to be met with a giant wall asking you to **"Log in to view this content"**?  
 Well, not anymore. Meet `off.tiktok` — the tiniest app with the biggest middle finger to unnecessary logins.
-
+I'll add other social media if you open an issue
 ---
 
 ## 🎯 What It Does

@@ -1,4 +1,4 @@
-package com.gerardpollorebozado.rssviewer
+package com.gerardpollorebozado.offsocial
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

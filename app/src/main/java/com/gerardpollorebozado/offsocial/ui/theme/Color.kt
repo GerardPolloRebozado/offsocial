@@ -1,4 +1,4 @@
-package com.gerardpollorebozado.rssviewer.ui.theme
+package com.gerardpollorebozado.offsocial.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
