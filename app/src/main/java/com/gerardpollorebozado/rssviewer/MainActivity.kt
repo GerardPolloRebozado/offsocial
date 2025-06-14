@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun modifyUrl(url: String): String {
-        // 🛠️ Replace this logic with your custom modification
         return url.replace("tiktok", "offtiktok")
     }
 }
