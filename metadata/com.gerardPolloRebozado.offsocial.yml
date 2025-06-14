@@ -1,0 +1,18 @@
+package: com.gerardPolloRebozado.offsocial
+version: 1
+name: OffSocial
+summary: View TikTok and other social media content without an account
+description: |
+    OffSocial redirects TikTok URLs to OffTikTok to view it without account
+license: MIT
+author: Gerard Du Pre
+repo: https://github.com/GerardPolloRebozado/offsocial
+builds:
+    - version: 1
+      gradle:
+          path: app
+      build:
+          commands:
+              - ./gradlew assembleRelease
+      apk:
+          path: app/build/outputs/apk/release/app-release.apk

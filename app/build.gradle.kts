@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.gerardpollorebozado.rssviewer"
+    namespace = "com.gerardpollorebozado.offsocial"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.gerardpollorebozado.rssviewer"
+        applicationId = "com.gerardpollorebozado.offsocial"
         minSdk = 21
         targetSdk = 35
         versionCode = 1
