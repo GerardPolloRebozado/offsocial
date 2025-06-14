@@ -34,6 +34,8 @@ jobs:
           asset_path: app/build/outputs/apk/release/app-release-unsigned.apk
           asset_name: offsocial-${{ env.RELEASE_TAG }}.apk
           asset_content_type: application/vnd.android.package-archive
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate F-Droid metadata file dynamically
         run: |
